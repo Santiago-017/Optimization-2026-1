@@ -6,6 +6,7 @@ Repositorio donde se almacenan los talleres desarrollados por:
 - **Santiago Bejarano Ariza**
 - **Juliana Yiseth Rengifo**
 - **Miguel Sebastian Páez Zorrilla**
+- **Andrés Felipe Martínez Vargas**
 
 ## Descripción
 
@@ -24,3 +25,4 @@ Cada taller se encuentra organizado en su propia carpeta, donde se incluyen:
 - Santiago Bejarano Ariza  
 - Juliana Yiseth Rengifo  
 - Miguel Sebastian Páez Zorrilla
+- Andrés Felipe Martínez Vargas
